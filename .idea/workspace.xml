@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa pattern examplses" />
+    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa pattern examplses">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/ArmstroongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Reversenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/countdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/eucllidalgogcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/printAlldivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicMaths/sortdivisior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/patter22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/print1N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/printN1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/printNtimesName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sumoFfirstN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,20 +65,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hp/Desktop/cafe-app"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/cafe-app&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.patttern14">
-    <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.pattern10" />
+}</component>
+  <component name="RunManager" selected="Application.factorial">
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicMaths.Prime" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="BasicMaths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.pattern11" />
+    <configuration name="eucllidalgogcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicMaths.eucllidalgogcd" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="BasicMaths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.pattern12" />
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.factorial" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.pattern13" />
+    <configuration name="print1N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.print1N" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patttern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.patttern14" />
+    <configuration name="printN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.printN1" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.patttern14" />
-        <item itemvalue="Application.pattern13" />
-        <item itemvalue="Application.pattern12" />
-        <item itemvalue="Application.pattern10" />
-        <item itemvalue="Application.pattern11" />
+        <item itemvalue="Application.factorial" />
+        <item itemvalue="Application.printN1" />
+        <item itemvalue="Application.print1N" />
+        <item itemvalue="Application.eucllidalgogcd" />
+        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +230,21 @@
           <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/pattern19.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/patter22.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/factorial.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Pattern/patttern14.java</url>
           <line>19</line>
@@ -209,6 +253,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pattern/pattern21.java</url>
+          <line>16</line>
+          <properties class="Pattern.pattern21" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BasicMaths/countdigit.java</url>
+          <line>18</line>
+          <properties class="BasicMaths.countdigit" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BasicMaths/Reversenum.java</url>
+          <line>13</line>
+          <properties class="BasicMaths.Reversenum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BasicMaths/eucllidalgogcd.java</url>
+          <line>22</line>
+          <properties class="BasicMaths.eucllidalgogcd" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
