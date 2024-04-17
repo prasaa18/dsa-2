@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa pattern examplses">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/ArmstroongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Reversenum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/countdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/eucllidalgogcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/printAlldivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/sortdivisior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/patter22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/print1N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/printN1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/printNtimesName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumoFfirstN.java" afterDir="false" />
+    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa recursion examplses">
+      <change afterPath="$PROJECT_DIR$/src/Sorting/mergeSort4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,13 +48,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/cafe-app&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.factorial">
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicMaths.Prime" />
+  <component name="RunManager" selected="Application.SelectionSort">
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicMaths.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eucllidalgogcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicMaths.eucllidalgogcd" />
+    <configuration name="countarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hashing.countarray" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicMaths.*" />
+          <option name="PATTERN" value="Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.countarray" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.printN1" />
         <item itemvalue="Application.print1N" />
-        <item itemvalue="Application.eucllidalgogcd" />
-        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712825056560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dsa recursion examplses">
+      <created>1713239853770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713239853770</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dsa recursion examplses">
+      <created>1713351203718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713351203718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +184,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsa pattern examplses" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsa pattern examplses" />
+    <MESSAGE value="dsa recursion examplses" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsa recursion examplses" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,6 +235,11 @@
           <line>8</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/SelectionSort.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Pattern/patttern14.java</url>
           <line>19</line>
@@ -289,6 +284,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Hashing/countarray.java</url>
+          <line>8</line>
+          <properties class="Hashing.countarray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
