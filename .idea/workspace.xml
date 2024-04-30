@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa recursion examplses">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/CheckSortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LargestEleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LeftRotateArrayByDplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LeftRotateOnebyOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MaximumCosecutive1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MoveZerosToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/RotatetRightDtime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/SecondLargestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/findNumberAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/uionSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/RecursiveBubbleSort.java" afterDir="false" />
+    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="more easy questions on dsa">
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LongesubArrayWithSumk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/SortanArrayO12s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713534583529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="more easy questions on dsa">
+      <created>1714130900619</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714130900620</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsa pattern examplses" />
     <MESSAGE value="dsa recursion examplses" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsa recursion examplses" />
+    <MESSAGE value="more easy questions on dsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="more easy questions on dsa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
