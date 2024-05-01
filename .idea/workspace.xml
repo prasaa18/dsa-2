@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="dsa pattern examplses">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/ArmstroongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/Reversenum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/countdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/eucllidalgogcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/printAlldivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMaths/sortdivisior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/patter22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/print1N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/printN1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/printNtimesName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumoFfirstN.java" afterDir="false" />
+    <list default="true" id="a46145c7-557b-4933-8182-f8bd92e5cec3" name="Changes" comment="dsa pattern examplses">
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MajorityEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MaximumSumsubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/SortanArrayO12s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/SortanArrayO12s.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +129,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="06aa57bc-3a5a-4b8d-85ba-32c871003252" name="Changes" comment="" />
+      <changelist id="a46145c7-557b-4933-8182-f8bd92e5cec3" name="Changes" comment="dsa pattern examplses" />
       <created>1712807870759</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
