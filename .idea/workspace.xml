@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a46145c7-557b-4933-8182-f8bd92e5cec3" name="Changes" comment="dsa pattern examplses">
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MajorityEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MaximumSumsubarray.java" afterDir="false" />
+    <list default="true" id="a46145c7-557b-4933-8182-f8bd92e5cec3" name="Changes" comment="dsan maximum sub array  majority ele">
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/StockBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/reaarrangeArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/SortanArrayO12s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/SortanArrayO12s.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712825056560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dsan maximum sub array  majority ele">
+      <created>1714545988856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714545988856</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +178,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsa pattern examplses" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsa pattern examplses" />
+    <MESSAGE value="dsan maximum sub array  majority ele" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsan maximum sub array  majority ele" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
