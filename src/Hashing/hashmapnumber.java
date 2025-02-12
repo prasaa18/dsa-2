@@ -24,12 +24,12 @@ public class hashmapnumber {
         HashMap<Integer, Integer> mp = new HashMap<>();
         for (int i = 0; i < n; i++) {
             int key = arr[i];
-            int freq = 0;
+            int freq = 1;
             //map[arr[i]]++
             if (mp.containsKey(key)) {
 
                 freq = mp.get(key); // fetching from the map i.e intially 0 it contains
-
+                mp.put(key ,freq+1);
                 freq++;
             }
             else{

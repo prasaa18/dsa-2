@@ -19,6 +19,7 @@ public class TwoSum {
         while (left < right) {
 
             int sum = arr[left] + arr[right];
+
             if (sum == target) {
                 return "YES";
             }

@@ -37,4 +37,9 @@ public class ReverseArray {
 //        swap(a[i],a[n-i-1]);
 //        reve(i+1, a, n);
 //    }
+//
+//    private static void swap(int i, int i1) {
+//    }
+
+
 }

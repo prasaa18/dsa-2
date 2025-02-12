@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a46145c7-557b-4933-8182-f8bd92e5cec3" name="Changes" comment="dsan maximum sub array  majority ele">
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/StockBuyAndSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/reaarrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binarysearch/Binarysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binarysearch/InsertPostionLb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binarysearch/UpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binarysearch/fllorCeil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binarysearch/loweerBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/LeadersArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/setMatrixZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Hashing/characterArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Hashing/characterArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Hashing/frquencyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Hashing/frquencyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Hashing/hashmapnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Hashing/hashmapnumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Pattern/pattern12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Pattern/pattern12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Pattern/pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Pattern/pattern5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/ProblemsOnArray/Easy/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/ProblemsOnArray/Easy/MissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSa-2/Recursion/sumoFfirstN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSa-2/Recursion/sumoFfirstN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMaths/sortdivisior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicMaths/sortdivisior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashing/characterArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashing/characterArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashing/frquencyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashing/frquencyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashing/hashmapnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashing/hashmapnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/pattern12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/pattern7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LongesubArrayWithSumk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/LongesubArrayWithSumk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MaximumCosecutive1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MaximumCosecutive1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MajorityEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/MajorityEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/Medium/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/findNumberAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/findNumberAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/uionSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsOnArray/Easy/uionSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/sumoFfirstN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/sumoFfirstN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +77,28 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/Desktop/cafe-app&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/OneDrive/Desktop/Angular-Ecommerce-Project&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.factorial">
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicMaths.Prime" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Binarysearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.loweerBound">
+    <configuration name="Binarysearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binarysearch" />
+      <module name="DSa-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterSecOfTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsOnArray.Easy.InterSecOfTwoSortedArray" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicMaths.*" />
+          <option name="PATTERN" value="ProblemsOnArray.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eucllidalgogcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicMaths.eucllidalgogcd" />
+    <configuration name="LongesubArrayWithSumk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsOnArray.Easy.LongesubArrayWithSumk" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicMaths.*" />
+          <option name="PATTERN" value="ProblemsOnArray.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.factorial" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.QuickSort" />
       <module name="DSa-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,39 +132,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print1N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.print1N" />
+    <configuration name="loweerBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loweerBound" />
       <module name="DSa-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="printN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.printN1" />
-      <module name="DSa-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.factorial" />
-        <item itemvalue="Application.printN1" />
-        <item itemvalue="Application.print1N" />
-        <item itemvalue="Application.eucllidalgogcd" />
-        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.loweerBound" />
+        <item itemvalue="Application.Binarysearch" />
+        <item itemvalue="Application.LongesubArrayWithSumk" />
+        <item itemvalue="Application.InterSecOfTwoSortedArray" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -185,96 +209,113 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern5.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern6.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern7.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern11.java</url>
+          <url>file://$PROJECT_DIR$/src/Recursion/print1N.java</url>
           <line>2</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern12.java</url>
-          <line>2</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/print1N.java</url>
+          <line>6</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/patttern14.java</url>
-          <line>2</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/print1N.java</url>
+          <line>8</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern19.java</url>
-          <line>2</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/printNtimesName.java</url>
+          <line>7</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pattern/patter22.java</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/src/Recursion/printNtimesName.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/printNtimesName.java</url>
+          <line>11</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Recursion/factorial.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>17</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/QuickSort.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProblemsOnArray/Easy/InterSecOfTwoSortedArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Pattern/patttern14.java</url>
-          <line>19</line>
-          <properties class="Pattern.patttern14" method="main">
+          <url>file://$PROJECT_DIR$/src/Recursion/printNtimesName.java</url>
+          <line>5</line>
+          <properties class="Recursion.printNtimesName" method="print">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Pattern/pattern21.java</url>
-          <line>16</line>
-          <properties class="Pattern.pattern21" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BasicMaths/countdigit.java</url>
-          <line>18</line>
-          <properties class="BasicMaths.countdigit" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BasicMaths/Reversenum.java</url>
-          <line>13</line>
-          <properties class="BasicMaths.Reversenum" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BasicMaths/eucllidalgogcd.java</url>
-          <line>22</line>
-          <properties class="BasicMaths.eucllidalgogcd" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSa_2$pattern2.ic" NAME="pattern2 Coverage Results" MODIFIED="1714803955794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pattern.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DSa_2$factorial.ic" NAME="factorial Coverage Results" MODIFIED="1714803689068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Recursion.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -80,8 +80,6 @@ public class findNumberAppearOnce {
 
 
 
-
-
   // o(n^2)  brute force
     public static int getSingleElement(int []arr) {
         // Size of the array:

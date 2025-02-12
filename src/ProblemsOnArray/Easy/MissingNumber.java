@@ -1,6 +1,6 @@
 package ProblemsOnArray.Easy;
 
-public class MissingNumber {
+public class  MissingNumber {
 ////  tc --o(N)    xor  will never exceed 10^5  but in su take large datatype but here its not exceed
     public static int missingNumber22(int []a, int N) {
 
@@ -91,7 +91,7 @@ public class MissingNumber {
         int N = 5;
         int a[] = {1, 2, 4, 5};
 
-        int ans = missingNumber(a, N);
+        int ans = missingNumber1(a, N);
         System.out.println("The missing number is: " + ans);
     }
 }

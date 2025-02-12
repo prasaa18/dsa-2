@@ -1,6 +1,6 @@
 package ProblemsOnArray.Easy;
 
-public class MaximumCosecutive1 {
+public class  MaximumCosecutive1 {
     // tc -- o(n)  sc -o(1)
     static int findMaxConsecutiveOnes(int nums[]) {
         int cnt = 0;

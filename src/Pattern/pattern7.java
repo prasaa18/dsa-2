@@ -3,7 +3,7 @@ package Pattern;
 //            ***
 //           *****
 //          *******
-//          *********
+//         *********
 public class pattern7 {
 
     public static void nStarTriangle(int n) {

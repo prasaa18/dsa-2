@@ -92,7 +92,7 @@ public class MajorityEle {
 
     public static void main(String args[]) {
         int[] arr = {2, 2, 1, 1, 1, 2, 2};
-        int ans = majorityElement(arr);
+        int ans = majorityElement3(arr);
         System.out.println("The majority element is: " + ans);
 
     }

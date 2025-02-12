@@ -37,7 +37,7 @@ static int func(int n){
 
         // Here, let’s take the value of n to be 3.
         int n = 3;
-        func(n);
+        System.out.println(func(n));
 
 
     }

@@ -9,7 +9,7 @@ public class frquencyArray {
 
         public static void main(String args[]){
 
-            int arr[] ={10,5,10,15,10,5};
+            int arr[] ={10,5,10,15,10,5,7};
             int n = arr.length;
             countFreq(arr, n);
         }

@@ -16,6 +16,7 @@ public class characterArray {
 
         for (int i = 0; i < s.length(); i++) {
             hash[s.charAt(i) - 'a']++;   //a-a =97-97 =0
+
                                           //a-b =98-97=1
         }
 //        int[] hash = new int[256];    // no lowercase all charcetr  hash all charcter

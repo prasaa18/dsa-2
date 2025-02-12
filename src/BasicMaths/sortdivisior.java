@@ -17,7 +17,7 @@ public class sortdivisior {
         for(int i = 1; i *i <= n; i++)   // istead of call function sqrt which takes time  tahts whuy i*i <=36  6*6 <=36
             if(n % i == 0){
                ls.add(i);
-               if(i != n/i)    /// 6 != 36/6
+               if(i != n/i)    /// 6 != 36/6 not added 6 another
                     ls.add(n/i);
             }
      //o(no.of factorn * log(no.of factor))

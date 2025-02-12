@@ -15,9 +15,9 @@ public class LongesubArrayWithSumk {
         long sum = a[0];
         int maxLen = 0;
         while (right < n) {
-            // if sum > k, reduce the subarray from left
+            // if sum > k, reduce the subarray from left\[azb   n
             // until sum becomes less or equal to k:
-            while (left <= right && sum > k) {
+            while (left <= right && sum > k)  {
                 sum -= a[left];
                 left++;
             }
@@ -114,9 +114,9 @@ public static int getLongestSubarray3(int []a, int k) {
     }
 
     public static void main(String[] args) {
-        int[] a = { -1, 1, 1};
-        int k = 1;
-        int len = getLongestSubarray(a, k);
+        int[] a = { 2,0,0,3};
+        int k = 3;
+        int len = getLongestSubarray3(a, k);
         System.out.println("The length of the longest subarray is: " + len);
     }
 }
