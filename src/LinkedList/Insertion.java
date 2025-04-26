@@ -11,7 +11,6 @@ public class  Insertion{
             head = head.next;
         }
     }
-
     // Function to insert a new node at the head of the linked list
     public static Node insertHead(Node head, int val) {
         Node temp = new Node(val, head);
